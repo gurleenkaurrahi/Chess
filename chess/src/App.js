@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
 import './App.css';
-import Chessboard from './Components/Chessboard';
+import Chessboard from './Components/Chessboard/Chessboard';
 
 function App() {
   return (
